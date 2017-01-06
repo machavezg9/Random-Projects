@@ -5,3 +5,4 @@
 - https://github.com/google/gdata-python-client
 - http://google-scraper.squabbel.com/
 - https://simply-python.com/2015/09/26/simple-python-script-to-retrieve-all-stocks-data-from-google-finance-screener/
+- http://www.quantatrisk.com/2014/01/14/hacking-google-finance-in-real-time-for-algorithmic-traders/
